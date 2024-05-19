@@ -2,6 +2,11 @@
 
 A comprehensive analysis of patient , doctors and treatment provided in a hospital using SQL and Big Query.
 
+SQL ERD Diagram:
+
+![Untitled Diagram drawio](https://github.com/harshu1611/Hospital-Data-Analysis/assets/97937899/c3dac3f5-dc72-4444-a620-258a9d440e83)
+
+
 Dataset: Data.xlsx (Contains different sheets to be exported as different tables in CSV format)
 
 Some examples of SQL Query Outcomes:
