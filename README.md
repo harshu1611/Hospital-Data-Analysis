@@ -46,4 +46,24 @@ The dataset is available in `Data.xlsx` which contains different sheets. Each sh
 
 ### Most Common Reason for Patient Admission
 
-<p align="ce
+<p align="center">
+  <img src="https://github.com/harshu1611/Hospital-Data-Analysis/assets/97937899/ba722bf1-d1a3-4077-b581-ceb40e60fd15" alt="Most Common Reason For Patient Admission">
+</p>
+
+### Distribution of Treatment Outcomes for Patients Treated by Each Doctor
+
+<p align="center">
+  <img src="https://github.com/harshu1611/Hospital-Data-Analysis/assets/97937899/428e2b4f-c357-4c1e-ad5c-f77b958549cf" alt="Distribution of treatment outcomes for patients treated by each doctor">
+</p>
+
+### Doctors with the Highest Success Rates in Treating Specific Conditions
+
+<p align="center">
+  <img src="https://github.com/harshu1611/Hospital-Data-Analysis/assets/97937899/56931c6a-e30c-44a9-b228-da59acd43354" alt="Doctors with the highest success rates in treating specific conditions">
+</p>
+
+### Patient Demographics and Treatment Outcomes by Department
+
+<p align="center">
+  <img src="https://github.com/harshu1611/Hospital-Data-Analysis/assets/97937899/92e12323-1422-4d10-9b02-d995d2bed978" alt="Patient demographics and treatment outcomes by department">
+</p>
