@@ -1,4 +1,10 @@
 # Hospital-Data-Analysis
+
+A comprehensive analysis of patient , doctors and treatment provided in a hospital using SQL and Big Query.
+Dataset: Data.csv (Contains different sheets to be exported as different tables)
+
+Some examples of SQL Query Outcomes:
+
 ![Patient and gender](https://github.com/harshu1611/Hospital-Data-Analysis/assets/97937899/fa84875f-cbf2-49f7-a7ea-ef5b4bddfe70)
 
 Most Common Health Conditions By Age Group
