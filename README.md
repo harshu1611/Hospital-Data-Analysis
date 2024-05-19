@@ -1,7 +1,8 @@
 # Hospital-Data-Analysis
 
 A comprehensive analysis of patient , doctors and treatment provided in a hospital using SQL and Big Query.
-Dataset: Data.csv (Contains different sheets to be exported as different tables)
+
+Dataset: Data.xlsx (Contains different sheets to be exported as different tables in CSV format)
 
 Some examples of SQL Query Outcomes:
 
